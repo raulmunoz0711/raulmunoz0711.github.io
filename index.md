@@ -1,6 +1,8 @@
 # Raul Munoz's Portfolio
 
-I am a freshman Computer Science major student expected to graduate in 2028.
+## HELLO WORLD
+
+My name is Raul Munoz and I am a freshman at California State University, Fullerton. I am a Computer Science major and am expected to graduate in 2028.
 
 ## Favorite CPSC 120L Labs
 
